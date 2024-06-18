@@ -5,7 +5,7 @@
 # Date: 
 ## Aim
 To write a C program for Conversion of Non-Deterministic Finite Automaton (NFA) To 
-Deterministic Finite Automaton (DFA).
+Deterministic Finite Automaton (DFA).</br>
 # ALGORITHM
 Step 1 : Take ∈ closure for the beginning state of NFA as beginning state of DFA. 
 
